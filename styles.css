@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: #A8A4A4;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  min-height: 200px;
+  background-color: #fff;
+  overflow: auto;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+}
+
+form {
+  margin: 40px;
+}
+
+input, button {
+  height: 50px;
+  font-size: 18px;
+  /*line-height: 20px;*/
+}
+
+input {
+  min-width: 200px;
+  padding-left: 10px;
+}
+
+button {
+  min-width: 60px;
+}
