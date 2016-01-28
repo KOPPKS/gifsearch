@@ -37,3 +37,7 @@ input {
 button {
   min-width: 60px;
 }
+
+.one {
+  text-align: center;
+}

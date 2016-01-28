@@ -1,0 +1,1 @@
+This is a simple app that uses an $http GET request in Angular to pull GIFs from different searches. This was something that I built to practice pulling data from APIs.
